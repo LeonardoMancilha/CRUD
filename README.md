@@ -22,9 +22,15 @@
 ---
 
 ## ⚙️ Funcionalidades / Functionalities
-- `Funcionalidade 1`: 
-        
-English: 
+- `Funcionalidade 1`: Cadastrar clientes
+
+English: Register customers
+- `Funcionalidade 2`: Editar os dados dos clientes
+
+English: Editing customer data
+- `Funcionalidade 3`: Excluir os dados dos clientes
+
+English: Deleting customer data
         
 ---
 ## Aplicação
